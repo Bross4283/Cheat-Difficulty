@@ -1,1 +1,32 @@
-
+[
+	{
+		"name": "God Mode",
+		"baseHappiness": 999,
+		"extraHappinessPerLuxury": 999,
+		"researchCostModifier": 0.001,
+		"unitCostModifier": 0.001,
+		"unitSupplyBase": 999,
+		"unitSupplyPerCity": 999,
+		"buildingCostModifier": 0.001,
+		"policyCostModifier": 0.001,
+		"unhappinessModifier": 0.001,
+		"barbarianBonus": 999,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
+        "aiDifficultyLevel": "Chieftain",
+		"aiCityGrowthModifier": 1, // that is to say it'll take them 1.6 times as long to grow the city
+		"aiUnitCostModifier": 1,
+		"aiBuildingCostModifier": 1,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 1,
+		"aiUnitMaintenanceModifier": 1,
+		"aiUnitSupplyModifier": 0,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 1,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 999
+  }
+]
