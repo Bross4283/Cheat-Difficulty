@@ -1,1 +1,1 @@
-This is a simple, yet very overpowered difficulty for Unciv. The ai is completely normal, but the player has extremely reduced costs for everything, as well as extremely increased gain from everything.
+Personal god mode difficulty. Play as Greece for improvement building and special unit
