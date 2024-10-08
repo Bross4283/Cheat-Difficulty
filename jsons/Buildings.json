@@ -1,8 +1,15 @@
 [
   {
-    "name": "Improvement Boost",
+    "name": "Boost Everything",
     "uniqueTo": "Greece",
     "cost": 1,
-    "uniques": ["[-99]% construction time for [All] improvements"]
+    "gold": 99999,
+    "faith": 99999,
+    "culture": 99999,
+    "science": 99999,
+    "food": 99999,
+    "uniques": ["New [Military] units start with [9999] Experience [in this city]",
+      "[-999]% construction time for [All] improvements",
+    "All newly-trained [Military] units [in this city] receive the [Morale] promotion"]
   }
 ]
