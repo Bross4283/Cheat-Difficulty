@@ -14,6 +14,6 @@
     "Can see invisible [All] units","All tiles cost 1 movement",
     "Can pass through impassable tiles","Ignores terrain cost",
     "Ignores Zone of Control","Never appears as a Barbarian unit",
-    "May travel on water tiles without embarking"]
+    "May travel on Water tiles without embarking"]
   }
 ]
