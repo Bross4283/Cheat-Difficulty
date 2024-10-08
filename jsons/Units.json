@@ -4,7 +4,7 @@
     "uniqueTo": "Greece",
     "unitType": "Scout",
     "movement": 1,
-    "strength": 99,
+    "strength": 999,
     "cost": 1,
     "uniques": ["[+5] Movement","[+5] Sight","[+5] additional attacks per turn",
     "May attack when embarked","Eliminates combat penalty for attacking over a river",
