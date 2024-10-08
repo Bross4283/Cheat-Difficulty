@@ -1,1 +1,19 @@
-
+[
+  {
+    "name": "Prodigy",
+    "uniqueTo": "Greece",
+    "unitType": "Scout",
+    "movement": 1,
+    "strength": 99,
+    "cost": 1,
+    "uniques": "[+5] Movement","[+5] Sight","[+5] additional attacks per turn",
+    "May attack when embarked","Eliminates combat penalty for attacking over a river",
+    "Can move after attacking","Can move immediately once bought",
+    "Unit will heal every turn, even if it performs an action",
+    "Can see over obstacles","Invisible to others",
+    "Can see invisible [All] units","All tiles cost 1 movement",
+    "Can pass through impassable tiles","Ignores terrain cost",
+    "Ignores Zone of Control","Never appears as a Barbarian unit",
+    "May travel on water tiles without embarking"
+  }
+]
