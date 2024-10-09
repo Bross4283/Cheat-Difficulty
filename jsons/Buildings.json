@@ -6,7 +6,7 @@
     "uniques": ["New [Military] units start with [9999] Experience [in this city]",
     "[-999]% construction time for [All] improvements",
     "All newly-trained [Military] units [in this city] receive the [Morale] promotion",
-    "Gain [99999] [Gold]","Gain [99999] [Faith]","Gain [99999] [Culture]",
-    "Gain [99999] [Science]","Gain [99999] [Food]"]
+    "Gain [99999] [Gold]","Gain [9999] [Faith]","Gain [9999] [Culture]",
+    "Gain [9999] [Science]","Gain [9999] [Food]"]
   }
 ]
