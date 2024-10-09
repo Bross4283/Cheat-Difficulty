@@ -10,6 +10,7 @@
     "food": 999,
     "uniques": ["New [Military] units start with [9999] Experience [in this city]",
       "[-999]% construction time for [All] improvements",
-    "All newly-trained [Military] units [in this city] receive the [Morale] promotion"]
+    "All newly-trained [Military] units [in this city] receive the [Morale] promotion",
+    "Instantly provides [99999] [Gold]"]
   }
 ]
