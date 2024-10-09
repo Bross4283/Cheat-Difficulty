@@ -3,10 +3,13 @@
     "name": "Boost Everything",
     "uniqueTo": "Greece",
     "cost": 1,
+    "faith": 9999,
+    "culture": 9999,
+    "food": 9999,
+    "science": 9999,
     "uniques": ["New [Military] units start with [9999] Experience [in this city]",
     "[-999]% construction time for [All] improvements",
     "All newly-trained [Military] units [in this city] receive the [Morale] promotion",
-    "Gain [99999] [Gold]","Gain [999] [Faith]","Gain [999] [Culture]",
-    "Gain [999] [Science]","Gain [999] [Food]"]
+    "Gain [99999] [Gold]"]
   }
 ]
